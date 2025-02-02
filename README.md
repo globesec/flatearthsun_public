@@ -1,6 +1,6 @@
 # Findings of vulnerabilities in the "Flat Earth Clock" app
 
-Welcome! In this repository we disclose findings in the Flat Earth Sun Moon & Clock app and it's related HTTP API, published by Blue Water Bay.
+Welcome! In this repository we disclose findings of vulnerabilities in the Flat Earth Sun Moon & Clock app and it's related HTTP API, published by Blue Water Bay.
 
 In line with responsible disclosure practices, we first attempted to communicate with the app's developer/owner in October 2024. These efforts to communicate and disclose have been both ignored or responded to with hostility. We are now making these findings public after more than 90 days since the first communication attempts, in the interest of the safety and privacy of the app's users, and for the awareness of the broader flat earth research and debunking communities.
 

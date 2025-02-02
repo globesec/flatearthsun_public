@@ -1,6 +1,6 @@
 # Findings
 
-This document lists findings from the Android version of the Flat Earth Sun & Moon Clock app and related API.
+This document lists findings of vulnerabilities in the Android version of the Flat Earth Sun & Moon Clock app and related API.
 
 Findings are grouped by severity, and describe a cause, it's effect, and recommendations for remediation. They are not a technical "how-to" for either exploiting or remediating the noted issues or vulnerabilities, and will not contain specific technical detail for either.
 
