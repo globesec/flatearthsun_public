@@ -33,7 +33,7 @@ Recommendation:
 
 ---
 
-### Unsecured API Routes Can be Trivially Accessed by Obtaining Their `user_id` or `device_id` Other API Routes
+### Unsecured API Routes Can be Trivially Accessed by Obtaining A User's `user_id` or `device_id` From Other API Routes
 
 Cause:
 
