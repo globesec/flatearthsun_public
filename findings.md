@@ -135,10 +135,21 @@ Recommendation:
 
 ## Low/Interesting
 
+## Low/Interesting
+
 ### Cryptocurrency Wallet Private Key and Wallet Address, and GoPulse API Key are Distributed in the .apk
 
 Cause:
 
 Effect:
 
+An attacker has all the details they would need to continually transfer any and all cryptocurrency in this wallet to their own wallets.
+
 Recommendation:
+
+1. Complete removal of the code from the app code base.
+2. Any transfers should be handled entirely server-side
+3. Revoke the private key associated with the wallet and issue a new private+public key pair for the wallet. Alternatively, consider the wallet completely compromised and completely cease all use of it.
+4. Revoke the GoPulse API key and create a new API key.
+
+Evidence:
