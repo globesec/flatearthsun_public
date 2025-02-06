@@ -151,5 +151,3 @@ Recommendation:
 2. Any transfers should be handled entirely server-side
 3. Revoke the private key associated with the wallet and issue a new private+public key pair for the wallet. Alternatively, consider the wallet completely compromised and completely cease all use of it.
 4. Revoke the GoPulse API key and create a new API key.
-
-Evidence:
