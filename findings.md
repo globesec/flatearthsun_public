@@ -137,9 +137,7 @@ Recommendation:
 
 ## Low/Interesting
 
-### Cryptocurrency Wallet Private Key and Wallet Address, and GoPulse API Key are Distributed in the .apk
-
-Cause:
+### [Resolved] Cryptocurrency Wallet Private Key and Wallet Address, and GoPulse API Key are Distributed in the .apk
 
 Effect:
 
