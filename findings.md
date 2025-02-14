@@ -49,7 +49,7 @@ Recommendation:
 
 Even using the [HTTP Basic Authentication Scheme](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication#basic_authentication_scheme) on all API routes that should require protection would be a marked improvement over the current implementation.
 
-If OAuth2.0 is used (as per previous recommendation), the JSON Web Token contains information about the user that should be used instead to identify the user data is to be retrieved for.
+If OAuth2.0 is used (as per previous recommendation), the JSON Web Token contains information about the user that should be used instead to identify the user for whom data is to be retrieved.
 
 ---
 
